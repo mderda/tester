@@ -9,5 +9,6 @@ kolejna zmiana w master
 --branch---------------------------------------
 branch-test-2 + bla bla bla... + bla bla 3
 
+branch3: aaaaaa
 -----------------------------------------------
 poszla ola do przedszkola
